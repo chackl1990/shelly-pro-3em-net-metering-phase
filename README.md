@@ -1,4 +1,4 @@
-# [![English](https://flagcdn.com/w20/gb.png)](#) Shelly Pro 3EM – Phase-Balanced Energy Calculation
+# [![English](https://flagcdn.com/w40/gb.png)](#) Shelly Pro 3EM – Phase-Balanced Energy Calculation
 [![Deutsch](https://flagcdn.com/w20/de.png)](#) - siehe weiter unten
 
 ## Overview
@@ -141,7 +141,7 @@ MIT / Public Domain – use at your own risk.
 
 ---
 
-# [![Deutsch](https://flagcdn.com/w20/de.png)](#) Shelly Pro 3EM – Phasen Saldierend
+# [![Deutsch](https://flagcdn.com/w40/de.png)](#) Shelly Pro 3EM – Phasen Saldierend
 
 ## Überblick
 
